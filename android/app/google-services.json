@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019939816952",
+    "project_id": "revartteste",
+    "storage_bucket": "revartteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019939816952:android:ffcd9f7f0cde66f238420d",
+        "android_client_info": {
+          "package_name": "cfs7.revart.com.br.revart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019939816952-1n2dbqdnrj5on8kvoc6iq6tu4d6cvg98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwmnqgwcu5Jl6AP_WWS1gsGGZy_tgoaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019939816952-1n2dbqdnrj5on8kvoc6iq6tu4d6cvg98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

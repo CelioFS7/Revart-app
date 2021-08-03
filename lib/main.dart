@@ -1,6 +1,7 @@
 //import 'package:cloud_firestore/cloud_firestore.dart';
 //import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:revart/pages/boasVindasPage.dart';
 import 'package:revart/pages/loginFistPage.dart';
 //import 'package:firebase_auth/firebase_auth.dart';
 
@@ -77,7 +78,7 @@ class _revartappState extends State<revartapp> {
       theme: ThemeData(
         primarySwatch: Colors.purple,
       ),
-      home: LoginFistPage(),
+      home: BoasVindasPage(),
     );
   }
 }
